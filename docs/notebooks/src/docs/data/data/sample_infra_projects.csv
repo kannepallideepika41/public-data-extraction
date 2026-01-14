@@ -1,0 +1,4 @@
+project_id,project_name,sector,state,district,estimated_cost,cost_spent,progress_percent,expected_completion,delay_months
+INFRA001,National Highway Expansion,Roads,Andhra Pradesh,Visakhapatnam,120000000,85000000,72,2025-03,4
+INFRA002,Railway Line Doubling,Railways,Telangana,Warangal,90000000,60000000,65,2025-06,6
+INFRA003,Irrigation Canal Project,Irrigation,Odisha,Sambalpur,70000000,52000000,74,2024-12,2
