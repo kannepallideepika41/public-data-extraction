@@ -1,0 +1,4 @@
+portal,tender_id,department,item_name,quantity,estimated_price,vendor,location,publish_date
+GeM,GEM/2024/B/12345,Health Department,Medical Gloves,10000,250000,ABC Suppliers,Andhra Pradesh,2024-06-10
+CPPP,CPPP/2024/67890,Roads & Buildings,Cement Bags,5000,400000,XYZ Constructions,Telangana,2024-06-15
+Railways,RLY/2024/54321,South Central Railway,Steel Rails,200,1500000,LMN Steels,Telangana,2024-06-20
